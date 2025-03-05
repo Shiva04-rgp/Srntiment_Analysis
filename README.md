@@ -1,4 +1,4 @@
-# Srntiment_Analysis
+# Sentiment_Analysis
 
 - title: Sentiment Analysis
 - emoji: 👁
